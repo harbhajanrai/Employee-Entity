@@ -1,5 +1,8 @@
 # Employee-Entity
 CURD operation on Employee Details through Rest-Api
+Database in MongoDB
+NodeJS for server-side
+React for front-end (Front-end require more work)
 
 # Dependencies:
     -body-parser: 1.19.0
